@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790436065408",
+    "firebase_url": "https://help-the-child-badb9.firebaseio.com",
+    "project_id": "help-the-child-badb9",
+    "storage_bucket": "help-the-child-badb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790436065408:android:f0d822e7e64199df9ef665",
+        "android_client_info": {
+          "package_name": "io.github.smrutiranjanrana.help_the_child_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790436065408-u5k5qb11th5ol7um1180cjq4ndilbmpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.smrutiranjanrana.help_the_child_user",
+            "certificate_hash": "2d1004ca5778fa4d106003967b9783db8e5e1f09"
+          }
+        },
+        {
+          "client_id": "790436065408-f65ia5kg8f6amkmtt7p570t60716mg0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYca6tBPoGxRunubs9fK0anwdO5Ogvi4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790436065408-f65ia5kg8f6amkmtt7p570t60716mg0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
